@@ -40,7 +40,7 @@ a:hover {
 }
 
 @media screen and (max-device-width: 320px) {
-    .main-text { width: 33% }
+    .main-text { width: 50% }
 }
 
 /* Animations */
