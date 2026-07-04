@@ -2,6 +2,7 @@ title: Jordan De Visser
 description: Blogging about my software projects
 theme: minima
 permalink: /:categories/:year/:month/:day/:title
+timezone: Australia/Brisbane
 
 minima:
   skin: solarized-dark
