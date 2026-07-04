@@ -1,0 +1,8 @@
+title: Jordan De Visser
+description: Blogging about my software projects
+theme: minima
+permalink: /:categories/:year/:month/:day/:title
+
+minima:
+  skin: solarized-dark
+  show_excerpts: true
