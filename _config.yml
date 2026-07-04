@@ -1,8 +1,11 @@
 title: Jordan De Visser
 description: Blogging about my software projects
-theme: minima
+remote_theme: jekyll/minima
 permalink: /:categories/:year/:month/:day/:title
 timezone: Australia/Brisbane
+
+plugins:
+  - jekyll-remote-theme
 
 minima:
   skin: solarized-dark
